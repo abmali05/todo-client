@@ -1,15 +1,15 @@
-# Divine Inventory
+# My ToDo App
 
-Live site link: [https://inventory-management-11.web.app/](https://inventory-management-11.web.app/)
+Live site link: [https://todo-app-afad0.web.app/](https://todo-app-afad0.web.app/)
 
-## Features of this site:
+<!-- ## Features of this site:
 
 * It is React based website
 * React firebase hooks and router is used here
 * Node JS is used in back-end server
 * Mongodb is used in back-end database
 * Bootstrap framework used here
-* Bootstrap Icon used here
+* Bootstrap Icon used here -->
 
 <!-- In the project directory, you can run:
 
